@@ -107,12 +107,13 @@ a {
   font-family: 'Open Sans', sans-serif;
 }
 .back-to-home{
-  height: 100px;
-  float: right;
+  margin-top: -11px;
+  height: 70px;
+  float: left;
   background-color: #333333;
   border: none;
   color: blue;
-  padding: 15px 30px;
+  padding: 10px 15px;
   font-size: 16px;
   cursor: pointer;
   border-radius: 5px;
